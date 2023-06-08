@@ -1,0 +1,29 @@
+_repo: Wanderings-in-North-Africa_70927
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hamilton, James
+    birthdate: 1814
+    deathdate: 1867
+    gutenberg_agent_id: '1246'
+    url: http://www.gutenberg.org/2009/agents/1246
+    wikipedia: https://en.wikipedia.org/wiki/James_Hamilton_(1814%E2%80%931867)
+description: ''
+gutenberg_issued: '2023-06-06'
+identifiers:
+  gutenberg: '70927'
+language: en
+pgterms:marc904: https://archive.org/details/wanderingsinnort00hami
+pgterms:marc905: 20230526005433hamilton
+pgterms:marc906: '1856'
+pgterms:marc907: GB
+production_note: Galo Flordelis (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bJohn Murray, $c1856.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Wanderings in North Africa
+url: http://www.gutenberg.org/ebooks/70927
